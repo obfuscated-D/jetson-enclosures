@@ -1,5 +1,9 @@
 # Some minimalist enclosures for the Jetson Nano B01, and Jetson orin nano Dev Kits, as well as a DIN35 mount that doesn't suck!
 
+
+<img src="./images/Nano_top.JPEG" width="300"  alt="Nano_front.JPEG">
+<img src="./images/Nano_back.JPEG" width="300"  alt="Nano_back.JPEG">
+
 ### Hardware
 - 1 m3x30 socket head cap screw
 - 1 ~8mm diameer ~25mm spring ( I used an ender 3 print bed spring)
